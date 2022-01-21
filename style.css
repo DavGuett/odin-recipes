@@ -1,0 +1,54 @@
+body {
+  background-color: #adadad;
+}
+
+.titulo-primario {
+  color: #479705;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  background-color: orangered;
+  padding: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.links-receitas {
+  list-style: none;
+}
+
+img {
+  display: block;
+}
+.receita {
+  color: orangered;
+  display: inline-block;
+  padding: 5px;
+  font-size: 50px;
+}
+
+.descricao,
+.ingredientes,
+.modo-preparo {
+  color: green;
+  font-size: 30px;
+}
+
+.introducao {
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+}
+
+.lista-ingredientes,
+.passos {
+  font-size: 18px;
+}
+
+.receita-peru {
+  height: auto;
+  width: 500px;
+}
